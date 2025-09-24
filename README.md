@@ -1,6 +1,6 @@
 # Sophia: An Exploration of Philosophy
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/JonnyTang/philosophy)
 
 A beautifully designed, minimalist web application for exploring the lives, ideas, and history of philosophy.
 
@@ -81,4 +81,4 @@ This command will build the application and deploy it using Wrangler. You will b
 
 Alternatively, you can deploy directly from your GitHub repository with a single click.
 
-[cloudflarebutton]
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/JonnyTang/philosophy)
