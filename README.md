@@ -1,0 +1,2 @@
+# philosophy
+all about philosophy
